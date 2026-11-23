@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://sugargoospreadsheet-budget.com/sitemap.xml
+Sitemap: https://oopbuyspreadsheet-budget.com/sitemap.xml

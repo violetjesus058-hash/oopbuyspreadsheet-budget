@@ -1,8 +1,8 @@
 import { defineConfig } from 'vitepress'
 
-const hostname = 'https://sugargoospreadsheet-budget.com'
-const siteTitle = 'Sugargoo Spreadsheet Budget Finder'
-const siteDescription = 'Browse Sugargoo Spreadsheet budget data by category, price range, and brand through an independent navigation directory.'
+const hostname = 'https://oopbuyspreadsheet-budget.com'
+const siteTitle = 'Oopbuy Spreadsheet Budget Finder'
+const siteDescription = 'Browse Oopbuy Spreadsheet budget data by category, price range, and brand through an independent navigation directory.'
 
 export default defineConfig({
   title: siteTitle,
@@ -59,12 +59,12 @@ export default defineConfig({
     siteTitle,
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Clothing', link: 'https://productsite-8wf.pages.dev/?view=styles&category=clothing&platform=Sugargoo' },
-      { text: 'Shoes', link: 'https://productsite-8wf.pages.dev/?view=styles&category=shoe&platform=Sugargoo' },
-      { text: 'Pants', link: 'https://productsite-8wf.pages.dev/?view=styles&category=pants&platform=Sugargoo' },
-      { text: 'Accessories', link: 'https://productsite-8wf.pages.dev/?view=styles&category=ACC&platform=Sugargoo' },
+      { text: 'Clothing', link: 'https://productsite-8wf.pages.dev/?view=styles&category=clothing&platform=Oopbuy' },
+      { text: 'Shoes', link: 'https://productsite-8wf.pages.dev/?view=styles&category=shoe&platform=Oopbuy' },
+      { text: 'Pants', link: 'https://productsite-8wf.pages.dev/?view=styles&category=pants&platform=Oopbuy' },
+      { text: 'Accessories', link: 'https://productsite-8wf.pages.dev/?view=styles&category=ACC&platform=Oopbuy' },
       { text: 'Brands', link: '/#featured-brands' },
-      { text: 'All Finds', link: 'https://productsite-8wf.pages.dev/?view=styles&platform=Sugargoo' },
+      { text: 'All Finds', link: 'https://productsite-8wf.pages.dev/?view=styles&platform=Oopbuy' },
     ],
     sidebar: false,
     outline: false,

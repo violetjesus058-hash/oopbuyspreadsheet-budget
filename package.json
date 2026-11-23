@@ -1,7 +1,7 @@
 {
-  "name": "sugargoo-spreadsheet-budget",
+  "name": "oopbuy-spreadsheet-budget",
   "version": "1.0.0",
-  "description": "Sugargoo Spreadsheet budget data and navigation directory",
+  "description": "Oopbuy Spreadsheet budget data and navigation directory",
   "type": "module",
   "scripts": {
     "dev": "vitepress dev",
