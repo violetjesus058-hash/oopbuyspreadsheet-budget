@@ -4,7 +4,7 @@ title: Oopbuy Spreadsheet Budget Finder – Browse Budget Data by Category
 
 <div class="oopbuy-page">
 <section class="reference-hero">
-<p class="hero-count">SUGARGOO SPREADSHEET · BUDGET FINDER</p>
+<p class="hero-count">OOPBUY SPREADSHEET · BUDGET FINDER</p>
 <h1>Find budget<br><span>data faster</span></h1>
 <p class="hero-subtitle">A structured directory for Oopbuy Spreadsheet links</p>
 <p class="hero-copy">Use category, brand, and budget shortcuts to open the relevant external data view. This site is a navigation tool, not a store.</p>
@@ -14,7 +14,7 @@ title: Oopbuy Spreadsheet Budget Finder – Browse Budget Data by Category
 <span class="status-chip">Check current data at destination</span>
 </div>
 <div class="hero-actions">
-<a class="hero-action primary-action" href="https://productsite-8wf.pages.dev/?view=styles&platform=Oopbuy">Open All Finds ↗</a>
+<a class="hero-action primary-action" href="https://productsite-8wf.pages.dev/?view=styles&platform=oopbuy">Open All Finds ↗</a>
 <a class="hero-action secondary-action" href="#how-to-order">⚡ How to Order · 30s</a>
 </div>
 </section>
@@ -31,11 +31,11 @@ title: Oopbuy Spreadsheet Budget Finder – Browse Budget Data by Category
 <p class="field-note">Search is a visual prompt. Open a directory below to check live external records.</p>
 <div class="filter-row" aria-label="Budget shortcuts">
 <span class="filter-caption">Budget</span>
-<a class="filter-pill" href="https://productsite-8wf.pages.dev/?view=styles&platform=Oopbuy&price=all">All Prices</a>
-<a class="filter-pill" href="https://productsite-8wf.pages.dev/?view=styles&platform=Oopbuy&price=under-10">Under $10</a>
-<a class="filter-pill" href="https://productsite-8wf.pages.dev/?view=styles&platform=Oopbuy&price=10-20">$10–$20</a>
-<a class="filter-pill" href="https://productsite-8wf.pages.dev/?view=styles&platform=Oopbuy&price=20-40">$20–$40</a>
-<a class="filter-pill" href="https://productsite-8wf.pages.dev/?view=styles&platform=Oopbuy&price=40-plus">$40+</a>
+<a class="filter-pill" href="https://productsite-8wf.pages.dev/?view=styles&platform=oopbuy&price=all">All Prices</a>
+<a class="filter-pill" href="https://productsite-8wf.pages.dev/?view=styles&platform=oopbuy&price=under-10">Under $10</a>
+<a class="filter-pill" href="https://productsite-8wf.pages.dev/?view=styles&platform=oopbuy&price=10-20">$10–$20</a>
+<a class="filter-pill" href="https://productsite-8wf.pages.dev/?view=styles&platform=oopbuy&price=20-40">$20–$40</a>
+<a class="filter-pill" href="https://productsite-8wf.pages.dev/?view=styles&platform=oopbuy&price=40-plus">$40+</a>
 </div>
 </section>
 
@@ -44,14 +44,14 @@ title: Oopbuy Spreadsheet Budget Finder – Browse Budget Data by Category
 <h2>Browse budget data by category</h2>
 <p class="section-intro">Choose a category to open the matching external view. Prices, availability, and product records can change.</p>
 <div class="category-list">
-<a class="category-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&category=clothing&platform=Oopbuy"><span>01</span><strong>👕 Hoodies &amp; Tees</strong><small>Open clothing data</small><b>↗</b></a>
-<a class="category-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&category=shoe&platform=Oopbuy"><span>02</span><strong>👟 Sneakers &amp; Shoes</strong><small>Open footwear data</small><b>↗</b></a>
-<a class="category-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&category=long-sleeve&platform=Oopbuy"><span>03</span><strong>🧥 Jackets &amp; Outerwear</strong><small>Open outerwear data</small><b>↗</b></a>
-<a class="category-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&category=pants&platform=Oopbuy"><span>04</span><strong>👖 Pants &amp; Shorts</strong><small>Open bottoms data</small><b>↗</b></a>
-<a class="category-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&category=bags&platform=Oopbuy"><span>05</span><strong>🎒 Bags &amp; Backpacks</strong><small>Open bag data</small><b>↗</b></a>
-<a class="category-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&category=ACC&platform=Oopbuy"><span>06</span><strong>🧢 Caps &amp; Accessories</strong><small>Open accessories data</small><b>↗</b></a>
-<a class="category-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&category=watches&platform=Oopbuy"><span>07</span><strong>⌚ Watches</strong><small>Open watch data</small><b>↗</b></a>
-<a class="category-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&category=lego&platform=Oopbuy"><span>08</span><strong>📦 Mystery Boxes &amp; More</strong><small>Open additional data</small><b>↗</b></a>
+<a class="category-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&category=clothing&platform=oopbuy"><span>01</span><strong>👕 Hoodies &amp; Tees</strong><small>Open clothing data</small><b>↗</b></a>
+<a class="category-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&category=shoe&platform=oopbuy"><span>02</span><strong>👟 Sneakers &amp; Shoes</strong><small>Open footwear data</small><b>↗</b></a>
+<a class="category-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&category=long-sleeve&platform=oopbuy"><span>03</span><strong>🧥 Jackets &amp; Outerwear</strong><small>Open outerwear data</small><b>↗</b></a>
+<a class="category-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&category=pants&platform=oopbuy"><span>04</span><strong>👖 Pants &amp; Shorts</strong><small>Open bottoms data</small><b>↗</b></a>
+<a class="category-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&category=bags&platform=oopbuy"><span>05</span><strong>🎒 Bags &amp; Backpacks</strong><small>Open bag data</small><b>↗</b></a>
+<a class="category-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&category=ACC&platform=oopbuy"><span>06</span><strong>🧢 Caps &amp; Accessories</strong><small>Open accessories data</small><b>↗</b></a>
+<a class="category-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&category=watches&platform=oopbuy"><span>07</span><strong>⌚ Watches</strong><small>Open watch data</small><b>↗</b></a>
+<a class="category-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&category=lego&platform=oopbuy"><span>08</span><strong>📦 Mystery Boxes &amp; More</strong><small>Open additional data</small><b>↗</b></a>
 </div>
 </section>
 
@@ -60,18 +60,18 @@ title: Oopbuy Spreadsheet Budget Finder – Browse Budget Data by Category
 <h2>Open a brand-filtered view</h2>
 <p class="section-intro">These buttons open external data views. Brand names are navigation labels only and do not imply authorization, authenticity, or endorsement.</p>
 <div class="brand-list">
-<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=Oopbuy&brand=Nike">Nike</a>
-<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=Oopbuy&brand=adidas">adidas</a>
-<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=Oopbuy&brand=Jordan">Jordan</a>
-<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=Oopbuy&brand=AMIRI">AMIRI</a>
-<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=Oopbuy&brand=Burberry">Burberry</a>
-<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=Oopbuy&brand=Gucci">Gucci</a>
-<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=Oopbuy&brand=Prada">Prada</a>
-<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=Oopbuy&brand=Moncler">Moncler</a>
-<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=Oopbuy&brand=Stone+Island">Stone Island</a>
-<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=Oopbuy&brand=Off-White">Off-White</a>
-<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=Oopbuy&brand=Louis+Vuitton">Louis Vuitton</a>
-<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=Oopbuy&brand=Chrome+Hearts">Chrome Hearts</a>
+<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=oopbuy&brand=Nike">Nike</a>
+<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=oopbuy&brand=adidas">adidas</a>
+<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=oopbuy&brand=Jordan">Jordan</a>
+<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=oopbuy&brand=AMIRI">AMIRI</a>
+<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=oopbuy&brand=Burberry">Burberry</a>
+<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=oopbuy&brand=Gucci">Gucci</a>
+<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=oopbuy&brand=Prada">Prada</a>
+<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=oopbuy&brand=Moncler">Moncler</a>
+<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=oopbuy&brand=Stone+Island">Stone Island</a>
+<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=oopbuy&brand=Off-White">Off-White</a>
+<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=oopbuy&brand=Louis+Vuitton">Louis Vuitton</a>
+<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=oopbuy&brand=Chrome+Hearts">Chrome Hearts</a>
 </div>
 </section>
 
@@ -83,7 +83,7 @@ title: Oopbuy Spreadsheet Budget Finder – Browse Budget Data by Category
 <div class="step-item"><span>02</span><div><h3>Review the current record</h3><p>Check the destination page for the current link, size information, price, availability, and any available QC material.</p></div></div>
 <div class="step-item"><span>03</span><div><h3>Confirm before checkout</h3><p>Sign in and complete purchasing only on the linked third-party destination. Confirm shipping, fees, and policies there.</p></div></div>
 </div>
-<a class="wide-cta" href="https://productsite-8wf.pages.dev/?view=styles&platform=Oopbuy">Open Oopbuy Data View ↗</a>
+<a class="wide-cta" href="https://productsite-8wf.pages.dev/?view=styles&platform=oopbuy">Open Oopbuy Data View ↗</a>
 </section>
 
 <section class="empty-state content-section">
