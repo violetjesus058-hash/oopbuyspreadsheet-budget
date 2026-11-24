@@ -18,6 +18,8 @@
 .VPContent { padding-bottom: 0 !important; }
 
 .oopbuy-page { max-width: 900px; margin: 0 auto; padding: 42px 24px 48px; color: var(--ink); text-align: center; }
+.sticky-offer { position: sticky; top: 64px; z-index: 5; display: flex; align-items: center; justify-content: center; gap: 12px; margin: -18px auto 22px; border: 1px solid #c7d7ee; border-radius: 10px; padding: 10px 14px; color: var(--ink); background: #fff; box-shadow: 0 8px 24px rgba(20, 26, 43, .08); font-size: .78rem; font-weight: 700; line-height: 1.4; }
+.sticky-offer .text-button { flex: none; padding: 6px 10px; }
 .reference-hero { padding: 18px 0 32px; }
 .hero-count, .hero-subtitle { margin: 0; color: var(--ink); font-size: 0.9rem; font-weight: 800; letter-spacing: 0.12em; }
 .reference-hero h1 { margin: 20px 0 18px; color: var(--ink); font-size: clamp(3.2rem, 7vw, 5.8rem); font-weight: 850; letter-spacing: -0.07em; line-height: 0.94; }
@@ -45,6 +47,10 @@
 
 .content-section, .button-section { max-width: 720px; margin: 0 auto; border-top: 1px solid var(--line); padding: 48px 0; text-align: left; }
 .content-section h2, .button-section h2 { margin: 0; color: var(--ink); font-size: clamp(1.8rem, 4vw, 2.8rem); font-weight: 800; letter-spacing: -0.055em; line-height: 1.05; }
+.guide-section h3 { margin: 28px 0 8px; color: var(--ink); font-size: 1.2rem; letter-spacing: -0.025em; }
+.guide-section ol { margin: 18px 0 0; padding-left: 1.35rem; color: var(--muted); line-height: 1.75; }
+.guide-section li { margin: 10px 0; padding-left: 4px; }
+.guide-section li strong, .guide-section p strong { color: var(--ink); }
 .content-section > p:not(.section-label), .section-intro { color: var(--muted); font-size: 0.98rem; line-height: 1.75; }
 .section-intro { margin: 14px 0 22px; }
 .category-list { display: flex; width: 100%; flex-direction: column; gap: 8px; margin: 0 auto; }
@@ -73,6 +79,7 @@
 @media (max-width: 900px) { .VPNavBar .VPNavBarMenuLink:nth-child(n + 4) { display: none; } }
 @media (max-width: 640px) {
   .oopbuy-page { padding: 30px 18px 36px; }
+  .sticky-offer { position: static; align-items: flex-start; flex-direction: column; margin: -6px 0 18px; }
   .reference-hero { padding-top: 10px; }
   .reference-hero h1 { font-size: clamp(3rem, 15vw, 5rem); }
   .hero-copy { font-size: .92rem; }

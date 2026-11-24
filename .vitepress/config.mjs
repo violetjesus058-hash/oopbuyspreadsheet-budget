@@ -1,8 +1,8 @@
 import { defineConfig } from 'vitepress'
 
 const hostname = 'https://oopbuyspreadsheet-budget.com'
-const siteTitle = 'Oopbuy Spreadsheet Budget Finder'
-const siteDescription = 'Browse Oopbuy Spreadsheet budget data by category, price range, and brand through an independent navigation directory.'
+const siteTitle = 'Best Oopbuy Budget Spreadsheet 2026 | 2,500+ Affordable Finds with QC Photos'
+const siteDescription = 'Explore the ultimate Oopbuy budget spreadsheet updated daily. Discover 2,500+ verified affordable sneakers, hoodies, and streetwear finds under $25 with real QC photos and USD pricing.'
 
 export default defineConfig({
   title: siteTitle,
@@ -58,10 +58,10 @@ export default defineConfig({
     siteTitle,
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Clothing', link: 'https://productsite-8wf.pages.dev/?view=styles&category=clothing&platform=oopbuy' },
-      { text: 'Shoes', link: 'https://productsite-8wf.pages.dev/?view=styles&category=shoe&platform=oopbuy' },
-      { text: 'Pants', link: 'https://productsite-8wf.pages.dev/?view=styles&category=pants&platform=oopbuy' },
-      { text: 'Accessories', link: 'https://productsite-8wf.pages.dev/?view=styles&category=ACC&platform=oopbuy' },
+      { text: 'Under $10', link: 'https://productsite-8wf.pages.dev/?view=styles&platform=oopbuy&price=under-10' },
+      { text: 'Under $20', link: 'https://productsite-8wf.pages.dev/?view=styles&platform=oopbuy&price=under-20' },
+      { text: 'Budget Sneakers', link: 'https://productsite-8wf.pages.dev/?view=styles&category=shoe&platform=oopbuy' },
+      { text: 'Hoodies & Sweaters', link: 'https://productsite-8wf.pages.dev/?view=styles&category=clothing&platform=oopbuy' },
       { text: 'Brands', link: '/#featured-brands' },
       { text: 'All Finds', link: 'https://productsite-8wf.pages.dev/?view=styles&platform=oopbuy' },
     ],
