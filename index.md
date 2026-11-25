@@ -25,13 +25,8 @@ title: Best Oopbuy Budget Spreadsheet 2026 | 2,500+ Affordable Finds with QC Pho
 <section id="quick-finder" class="finder-panel" aria-label="Search and quick actions">
 <div class="finder-heading">
 <p class="section-label">QUICK FINDER</p>
-<h2>Start with a clear shortcut</h2>
+<h2>Choose a clear shortcut</h2>
 </div>
-<label class="search-field">
-<span>Search</span>
-<input type="search" placeholder="Search by item, brand, or code..." aria-label="Search by item, brand, or code" />
-</label>
-<p class="field-note">Search is a visual prompt. Open a directory below to check live external records.</p>
 <div class="filter-row" aria-label="Budget shortcuts">
 <span class="filter-caption">Budget</span>
 <a class="filter-pill" href="https://productsite-8wf.pages.dev/?view=styles&platform=oopbuy&price=all">All Prices</a>
@@ -46,6 +41,13 @@ title: Best Oopbuy Budget Spreadsheet 2026 | 2,500+ Affordable Finds with QC Pho
 <a class="filter-pill" href="https://productsite-8wf.pages.dev/?view=styles&platform=oopbuy&category=jackets&season=winter">Winter Jackets</a>
 <a class="filter-pill" href="https://productsite-8wf.pages.dev/?view=styles&platform=oopbuy&category=tees&season=summer">Summer Tees</a>
 <a class="filter-pill" href="https://productsite-8wf.pages.dev/?view=styles&platform=oopbuy&category=sneakers&season=summer">Summer Sneakers</a>
+</div>
+<div class="filter-row" aria-label="Category shortcuts">
+<span class="filter-caption">Category</span>
+<a class="filter-pill" href="https://productsite-8wf.pages.dev/?view=styles&platform=oopbuy&category=sneakers&price=under-20">Budget Sneakers</a>
+<a class="filter-pill" href="https://productsite-8wf.pages.dev/?view=styles&platform=oopbuy&category=hoodies">Hoodies</a>
+<a class="filter-pill" href="https://productsite-8wf.pages.dev/?view=styles&platform=oopbuy&category=jackets">Jackets</a>
+<a class="filter-pill" href="https://productsite-8wf.pages.dev/?view=styles&platform=oopbuy&category=bags">Bags</a>
 </div>
 </section>
 
