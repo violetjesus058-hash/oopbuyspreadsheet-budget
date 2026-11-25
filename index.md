@@ -36,9 +36,16 @@ title: Best Oopbuy Budget Spreadsheet 2026 | 2,500+ Affordable Finds with QC Pho
 <span class="filter-caption">Budget</span>
 <a class="filter-pill" href="https://productsite-8wf.pages.dev/?view=styles&platform=oopbuy&price=all">All Prices</a>
 <a class="filter-pill" href="https://productsite-8wf.pages.dev/?view=styles&platform=oopbuy&price=under-10">Under $10</a>
-<a class="filter-pill" href="https://productsite-8wf.pages.dev/?view=styles&platform=oopbuy&price=10-20">$10–$20</a>
-<a class="filter-pill" href="https://productsite-8wf.pages.dev/?view=styles&platform=oopbuy&price=20-40">$20–$40</a>
-<a class="filter-pill" href="https://productsite-8wf.pages.dev/?view=styles&platform=oopbuy&price=40-plus">$40+</a>
+<a class="filter-pill" href="https://productsite-8wf.pages.dev/?view=styles&platform=oopbuy&price=under-20">Under $20</a>
+<a class="filter-pill" href="https://productsite-8wf.pages.dev/?view=styles&platform=oopbuy&price=under-25">Under $25</a>
+<a class="filter-pill" href="https://productsite-8wf.pages.dev/?view=styles&platform=oopbuy&price=under-30">Under $30</a>
+</div>
+<div class="filter-row" aria-label="Seasonal shortcuts">
+<span class="filter-caption">Season</span>
+<a class="filter-pill" href="https://productsite-8wf.pages.dev/?view=styles&platform=oopbuy&category=hoodies&season=winter">Winter Hoodies</a>
+<a class="filter-pill" href="https://productsite-8wf.pages.dev/?view=styles&platform=oopbuy&category=jackets&season=winter">Winter Jackets</a>
+<a class="filter-pill" href="https://productsite-8wf.pages.dev/?view=styles&platform=oopbuy&category=tees&season=summer">Summer Tees</a>
+<a class="filter-pill" href="https://productsite-8wf.pages.dev/?view=styles&platform=oopbuy&category=sneakers&season=summer">Summer Sneakers</a>
 </div>
 </section>
 
@@ -49,10 +56,10 @@ title: Best Oopbuy Budget Spreadsheet 2026 | 2,500+ Affordable Finds with QC Pho
 <div class="category-list">
 <a class="category-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&amp;platform=oopbuy&amp;price=under-10"><span>01</span><strong>Under $10</strong><small>Lowest-budget finds</small><b>↗</b></a>
 <a class="category-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&amp;platform=oopbuy&amp;price=under-20"><span>02</span><strong>Under $20</strong><small>Everyday value picks</small><b>↗</b></a>
-<a class="category-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&amp;category=shoe&amp;platform=oopbuy"><span>03</span><strong>👟 Budget Sneakers</strong><small>Open footwear data</small><b>↗</b></a>
-<a class="category-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&amp;category=clothing&amp;platform=oopbuy"><span>04</span><strong>👕 Hoodies &amp; Sweaters</strong><small>Open clothing data</small><b>↗</b></a>
-<a class="category-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&amp;category=clothing&amp;platform=oopbuy"><span>05</span><strong>👕 Tees &amp; Shorts</strong><small>Open casualwear data</small><b>↗</b></a>
-<a class="category-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&amp;category=long-sleeve&amp;platform=oopbuy"><span>06</span><strong>🧥 Jackets</strong><small>Open outerwear data</small><b>↗</b></a>
+<a class="category-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&amp;platform=oopbuy&amp;category=sneakers&amp;price=under-20"><span>03</span><strong>👟 Budget Sneakers</strong><small>Under $20 footwear</small><b>↗</b></a>
+<a class="category-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&amp;platform=oopbuy&amp;category=hoodies"><span>04</span><strong>👕 Hoodies &amp; Sweaters</strong><small>Open hoodie data</small><b>↗</b></a>
+<a class="category-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&amp;platform=oopbuy&amp;category=tees,shorts&amp;season=summer"><span>05</span><strong>👕 Tees &amp; Shorts</strong><small>Summer casualwear data</small><b>↗</b></a>
+<a class="category-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&amp;platform=oopbuy&amp;category=jackets&amp;season=winter"><span>06</span><strong>🧥 Winter Jackets</strong><small>Cold-weather outerwear</small><b>↗</b></a>
 <a class="category-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&amp;category=bags&amp;platform=oopbuy"><span>07</span><strong>🎒 Bags &amp; Accessories</strong><small>Open bags and accessories</small><b>↗</b></a>
 <a class="category-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&amp;platform=oopbuy"><span>08</span><strong>All Finds</strong><small>Open the complete data view</small><b>↗</b></a>
 </div>
@@ -63,18 +70,18 @@ title: Best Oopbuy Budget Spreadsheet 2026 | 2,500+ Affordable Finds with QC Pho
 <h2>Open a brand-filtered view</h2>
 <p class="section-intro">These buttons open external data views. Brand names are navigation labels only and do not imply authorization, authenticity, or endorsement.</p>
 <div class="brand-list">
-<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=oopbuy&brand=Nike">Nike</a>
+<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=oopbuy&brand=nike">Nike</a>
 <a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=oopbuy&brand=adidas">adidas</a>
-<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=oopbuy&brand=Jordan">Jordan</a>
-<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=oopbuy&brand=AMIRI">AMIRI</a>
-<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=oopbuy&brand=Burberry">Burberry</a>
-<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=oopbuy&brand=Gucci">Gucci</a>
-<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=oopbuy&brand=Prada">Prada</a>
-<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=oopbuy&brand=Moncler">Moncler</a>
-<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=oopbuy&brand=Stone+Island">Stone Island</a>
-<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=oopbuy&brand=Off-White">Off-White</a>
-<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=oopbuy&brand=Louis+Vuitton">Louis Vuitton</a>
-<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=oopbuy&brand=Chrome+Hearts">Chrome Hearts</a>
+<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=oopbuy&brand=jordan">Jordan</a>
+<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=oopbuy&brand=amiri">AMIRI</a>
+<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=oopbuy&brand=burberry">Burberry</a>
+<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=oopbuy&brand=gucci">Gucci</a>
+<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=oopbuy&brand=prada">Prada</a>
+<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=oopbuy&brand=moncler">Moncler</a>
+<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=oopbuy&brand=stone-island">Stone Island</a>
+<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=oopbuy&brand=off-white">Off-White</a>
+<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=oopbuy&brand=louis-vuitton">Louis Vuitton</a>
+<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=oopbuy&brand=chrome-hearts">Chrome Hearts</a>
 </div>
 </section>
 
