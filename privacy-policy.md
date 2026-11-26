@@ -13,6 +13,10 @@ This Privacy Policy describes how **Oopbuy Spreadsheet Budget** ("we," "us," or 
 
 This website is not a seller or operator of the external Oopbuy catalog. We do not directly sell physical products, process orders or payments, inspect or store products, arrange logistics, issue refunds, or provide after-sales support. Brand names, product images, and third-party platform references belong to their respective rights holders and do not imply official authorization, authenticity, quality assurance, or endorsement.
 
+### Oopbuy budget-route context
+
+The Oopbuy page is designed around practical discovery choices such as Under $10, Under $20, budget sneakers, winter layers, summer tees, and brand filters. We may measure the chosen route and referral source, but we do not receive the external destination's account, coupon eligibility, payment, warehouse, parcel, or support records.
+
 This Policy covers this website only. External websites and apps have separate privacy policies.
 
 ## 2. Information we may collect
