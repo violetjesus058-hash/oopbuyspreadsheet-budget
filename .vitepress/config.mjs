@@ -65,6 +65,7 @@ export default defineConfig({
       { text: 'Summer Tees', link: 'https://productsite-8wf.pages.dev/?view=styles&platform=oopbuy&category=tees&season=summer' },
       { text: 'Brands', link: '/#featured-brands' },
       { text: 'All Finds', link: 'https://productsite-8wf.pages.dev/?view=styles&platform=oopbuy' },
+      { text: 'Privacy Policy', link: '/privacy-policy/' },
     ],
     sidebar: false,
     outline: false,

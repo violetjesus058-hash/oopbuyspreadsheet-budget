@@ -136,4 +136,5 @@ title: Best Oopbuy Budget Spreadsheet 2026 | 2,500+ Affordable Finds with QC Pho
 <img src="/favicon.png" alt="Oopbuy Spreadsheet Budget logo" />
 <p>Oopbuy Spreadsheet Budget is an independent directory. External data belongs to its respective destination pages.</p>
 </section>
+<p class="privacy-link"><a href="/privacy-policy/" aria-label="Oopbuy Spreadsheet Budget Privacy Policy" title="Oopbuy Spreadsheet Budget Privacy Policy">Privacy Policy</a></p>
 </div>
